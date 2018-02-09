@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    #parse("title.vm")
+</head>
+<body id="mainframe" class="inner">
+    $!screen_content
+</body>
+</html>
